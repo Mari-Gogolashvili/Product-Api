@@ -1,0 +1,17 @@
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.Services.deps.json
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.Services.dll
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.Services.pdb
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.Domain.dll
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.ProjectDb.dll
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.Domain.pdb
+C:\Users\gogol\Desktop\tanjva\Test.Services\bin\Debug\net8.0\Test.ProjectDb.pdb
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.csproj.AssemblyReference.cache
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.AssemblyInfoInputs.cache
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.AssemblyInfo.cs
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.csproj.CoreCompileInputs.cache
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Ser.3FB13A1A.Up2Date
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.dll
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\refint\Test.Services.dll
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\Test.Services.pdb
+C:\Users\gogol\Desktop\tanjva\Test.Services\obj\Debug\net8.0\ref\Test.Services.dll
